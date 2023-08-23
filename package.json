@@ -71,7 +71,8 @@
                   "mp-baidu",
                   "mp-toutiao",
                   "mp-lark",
-                  "mp-qq"
+                  "mp-qq",
+                  "h5"
                 ],
                 "enumDescriptions": [
                   "微信小程序",
@@ -79,7 +80,8 @@
                   "百度小程序",
                   "头条小程序",
                   "飞书小程序",
-                  "QQ小程序"
+                  "QQ小程序",
+                  "h5"
                 ],
                 "default": "mp-weixin"
               },
